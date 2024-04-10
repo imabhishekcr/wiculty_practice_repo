@@ -6,7 +6,7 @@ int i ;;
 
  
  
- system.out.println(i);
+ system.out.println("Hai the number is : "+ i);
  
  }
 
