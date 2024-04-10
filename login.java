@@ -1,7 +1,12 @@
 public void main (){
 
-
-system.out.println("Hello Git");
+int i ;;
+ for (i=0; i=5 ; i++){
+ 
+ 
+ system.out.println(i);
+ 
+ }
 
 
 
